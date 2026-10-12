@@ -14,4 +14,4 @@ Here's my five important foundation Computer skills to learn for modern work and
 - Cybersecurity and Digital safety.
 
   Connect with me!
-  -https://github.com/haileyjenner/portfolio/edit/main/README.md
+  -https://github.com/haileyjenner/portfolio/blob/main/README.md
